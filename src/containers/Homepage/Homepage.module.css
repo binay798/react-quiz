@@ -1,0 +1,20 @@
+.Header {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.Heading {
+    text-align: center;
+    color: #f7f7f7;
+    font-size: 50px;
+    font-weight: 400;
+    padding-top: 4rem;
+    letter-spacing: 4px;
+    margin-bottom: 4rem;
+}
+
+.Header button {
+    margin:0 auto;
+    display: block;
+}
